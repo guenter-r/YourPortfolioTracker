@@ -1,0 +1,17 @@
+
+> project@0.1.0 dev
+> next dev --turbo
+
+  ▲ Next.js 14.2.35 (turbo)
+  - Local:        http://localhost:3000
+  - Environments: .env
+
+ ✓ Starting...
+ ✓ Ready in 1553ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.6s
+[next-auth][warn][NEXTAUTH_URL]
+https://next-auth.js.org/warnings#nextauth_url
+[next-auth][warn][NO_SECRET]
+https://next-auth.js.org/warnings#no_secret
+ GET / 200 in 3940ms
